@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;IO_Port_Test1/io.test.c&apos; to &apos;ioport.c&apos;" description="Rename resource &apos;io.test.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="io.test.c" name="ioport.c" stamp="1756277079599" updateReferences="true"/>
+</session>
